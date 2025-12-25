@@ -10,7 +10,7 @@ This repository contains resources and code for data preprocessing and data visu
 
 ## Contents
 
-- `cleaned_dataset.csv` — Preprocessed sample dataset ready for further analysis.
+- `cleaned_dataset.csv` — Preprocessed sample dataset ready for further analysis.Here i have made a cleaned dataset as i have remove hidden values,check outliers,apply feature and scaling for better result in algorithm
 - `soil_pollution_diseases.csv` — Example of a raw dataset before cleaning.
 - `first_pro.ipynb` — Jupyter notebook containing code for data cleaning and visualization.
 
